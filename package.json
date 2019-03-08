@@ -39,11 +39,7 @@
     "js-yaml": "^3.6.1",
     "lodash": "^4.17.11",
     "multi-glob": "^1.0.2",
-<<<<<<< HEAD
     "multilang-extract-comments": "^0.3.2"
-=======
-    "multilang-extract-comments": "git+https://github.com/jhnferraris/multilang-extract-comments.git"
->>>>>>> Pointed multilang-extract-comments to jhnferraris' repo for low vulnerability
   },
   "devDependencies": {
     "babel-cli": "^6.11.4",
