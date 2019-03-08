@@ -1,6 +1,6 @@
 {
-  "name": "swagger-inline",
-  "version": "1.0.3",
+  "name": "swagger-inline-alpha",
+  "version": "1.0.3-alpha",
   "description": "Generate your swagger files from inline swagger comments.",
   "main": "build/index.js",
   "scripts": {
@@ -15,15 +15,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/readmeio/swagger-inline.git"
   },
-  "keywords": [
-    "swagger",
-    "docs",
-    "readmeio",
-    "documentation",
-    "api",
-    "inline",
-    "comments"
-  ],
+  "keywords": [ "swagger", "docs", "readmeio", "documentation", "api", "inline", "comments" ],
   "author": "Readme.io",
   "license": "ISC",
   "bugs": {
@@ -57,8 +49,6 @@
     "swagger-inline": "build/index.js"
   },
   "babel": {
-    "presets": [
-      "es2015"
-    ]
+    "presets": [ "es2015" ]
   }
 }
